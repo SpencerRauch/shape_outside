@@ -19,7 +19,7 @@ This project provides a Python script that uses the Pillow library to generate `
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/png-outline-to-css-shape-outside.git
+    git clone https://github.com/SpencerRauch/png-outline-to-css-shape-outside.git
     cd png-outline-to-css-shape-outside
     ```
 
