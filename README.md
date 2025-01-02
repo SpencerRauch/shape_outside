@@ -2,6 +2,8 @@
 
 This project provides a Python script that uses the Pillow library to generate `shape-outside: polygon` coordinates for the outline of the visible elements in a PNG image with a transparent border.
 
+NOTE: This project is entirely unnecessary and was done for learning. If an image has a transparent border already, just use shape-outside: url(path_to_image)
+
 ## Features
 
 - Load a PNG image with a transparent border.
